@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Felipe Messeri - @phileng7
 - 👀 I’m interested in new technologies and job challenges
-- 🌱 I’m currently learning Google Cloud. Some of my current skills are: 
-        Java, Spring Boot REST APIs, 
-        Hibernate/JPA, MySQL, Oracle, 
-        ReactJS Hooks/Redux, 
-        Amazon AWS (Amplify, Beanstalk, EC2, RDS, Cognito, S3), 
-        Taigo, Confluence, Jira
+- 🌱 I’m currently learning Google Cloud. Some of my current skills are: <br>
+        <ul>
+        <li>Java, Spring Boot REST APIs, </li>
+        <li>Hibernate/JPA, MySQL, Oracle,</li>
+        <li>ReactJS Hooks/Redux,</li>
+        <li>Amazon AWS (Amplify, Beanstalk, EC2, RDS, Cognito, S3),</li>
+        <li>Taigo, Confluence, Jira</li>
+        </ul>
 - 💞️ I’m looking to work in a Company from Canada, Europe or USA (can be remote also)
 - 📫 How to reach me: philmes@gmail.com
 
